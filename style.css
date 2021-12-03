@@ -17,8 +17,9 @@
     background-size: 30%;
 }
 
-.sezione{
+section{
     margin-top: 20px;
+    margin-left: 5px;
 }
 
 h1{
@@ -35,4 +36,8 @@ h1{
 
 .descrizione{
     font-size: 10px;
+}
+
+.evidenziato{
+    background-color: yellow;
 }
