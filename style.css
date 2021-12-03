@@ -16,3 +16,23 @@
     background-image: url(img/pattern.png);
     background-size: 30%;
 }
+
+.sezione{
+    margin-top: 20px;
+}
+
+h1{
+    font-size: 35px;
+}
+
+#blu{
+    color: rgb(66, 166, 228);
+}
+
+.sottotitolo{
+    color: grey;
+}
+
+.descrizione{
+    font-size: 10px;
+}
