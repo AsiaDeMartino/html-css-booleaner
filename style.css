@@ -41,3 +41,25 @@ h1{
 .evidenziato{
     background-color: yellow;
 }
+
+ul{
+    padding: 15px;
+}
+
+table{
+    text-align: left;
+    border-spacing: 0px;
+}
+
+td{
+    min-width: 300px;
+}
+
+.blu{
+    background-color: lightskyblue;
+}
+
+thead{
+    color: white;
+    background-color: rgb(66, 166, 228);
+}
